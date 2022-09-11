@@ -243,7 +243,7 @@ NFT が発行された後、`_tokenIds.increment()`（＝ OpenZeppelin が提供
 - Opensea は、`ERC721` のメタデータ規格をサポートしています。
 - 音声ファイル、動画ファイル、3D メディアなどに対応するメタデータ構造に関しては、[OpenSea の要件](https://zenn.dev/hayatoomori/articles/f26cc4637c7d66) を参照してください。
 
-上記の `Tanya` の JSON メタデータをコピーして、 [ここ](https://jsonkeeper.com/)の Web サイトに貼り付けてください。
+上記の `Tanya` の JSON メタデータをコピーして、 [こちら]([https://jsonkeeper.com/](https://www.npoint.io/) の Web サイトに貼り付けてください。
 
 この Web サイトは、JSON データをホストするのに便利です。
 
